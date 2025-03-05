@@ -13,7 +13,7 @@ export default function Header() {
         {/* Nav Links */}
         <ul className="flex space-x-6 text-gray-700">
           <li>
-            <a href="#who-we-are" className="hover:text-purple-600">
+            <a href="#who-we-are" className="hover:text-white-600">
               Who We Are
             </a>
           </li>
